@@ -3,20 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravidnahmias&label=Profile%20views&color=0e75b6&style=flat" alt="ravidnahmias" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravidnahmias" alt="ravidnahmias" /></a> </p>
+<h2> About Me </h2>
 
-- 🌱 I’m currently learning **FullStack Developer**
+- 🌱 I’m Ravid Nahmias, very passinate FullStack Developer
 
-- 💬 Ask me about **Android Frimware editing, Kosher Frimware,**
+- 💬 My great passion is to challange myself, create new things and continue to grow and learn.
 
 - 📫 How to reach me **ravidnahmias@gmail.com**
 
-- ⚡ Fun fact ****QWERTY** is a keyboard layout for Latin-script alphabets. The name comes from the order of the first six keys on the top left letter row of the keyboard (Q W E R T Y).**
+- ⚡ Fun fact: I love cooking and watch movies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lidormalich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lidormalich" height="30" width="40" /></a>
-<a href="https://fb.com/lidormalich2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lidormalich2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ravid-nahmias-b24a181ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravidnahmias" height="30" width="40" /></a>
+<a href="https://github.com/Ravid-Nahmias" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="lidormalich2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
