@@ -5,7 +5,7 @@
 
 <h2> About Me </h2>
 
-- 🌱 I’m Ravid Nahmias, very passinate FullStack Developer
+- 🌱 I’m Ravid Nahmias, very passionate FullStack Developer
 
 - 💬 My great passion is to challange myself, create new things and continue to grow and learn.
 
