@@ -11,7 +11,7 @@
 
 - 👨‍💻 You can see my project at in **Replit** https://replit.com/@ravidnahmias
 
-- 👨‍ see my chatbot ( jokes, amazon products, currency converter) https://bot.dialogflow.com/d8990452-e1c8-4eef-9005-7d33da6fcbba
+- 👨‍ see my chatbot ( jokes, amazon products, currency converter) https://console.dialogflow.com/api-client/demo/embedded/d8990452-e1c8-4eef-9005-7d33da6fcbba
 
 - 📫 How to reach me **ravidnahmias@gmail.com**
 
